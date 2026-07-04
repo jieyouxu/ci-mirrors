@@ -1,0 +1,41 @@
+[[files]]
+name = "rustc/kernel/linux-3.2.102.tar.gz"
+sha256 = "81098f1aa5bc07c282bdc925dd6b122234dfbf69d1ed6d92075f3925e0c2ac43"
+source = "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/snapshot/linux-3.2.102.tar.gz"
+license = "GPL-2.0"
+
+[[files]]
+name = "rustc/kernel/linux-3.10.108.tar.gz"
+sha256 = "b1711610cf3faf7194156dacdb98c63c1b7ffd02377269d7f75df63d823ccbba"
+source = "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/snapshot/linux-3.10.108.tar.gz"
+license = "GPL-2.0"
+
+[[files]]
+name = "rustc/kernel/linux-4.4.302.tar.gz"
+sha256 = "a22ceab143d40f511203265e5a70d6cc5ec39163cd54fa281346d19176f64451"
+source = "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/snapshot/linux-4.4.302.tar.gz"
+license = "GPL-2.0"
+
+[[files]]
+name = "rustc/kernel/linux-4.14.336.tar.gz"
+sha256 = "3850511cf1822f3bb7c4f2dcfb47a4575dfc2dd9510b3a22be1225a0b7a316b3"
+source = "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/snapshot/linux-4.14.336.tar.gz"
+license = "GPL-2.0"
+
+[[files]]
+name = "rustc/kernel/linux-4.19.325.tar.gz"
+sha256 = "8753443636e475b506e08abd40059ec9b84904a115d206014f0c856dfe13a25e"
+source = "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/snapshot/linux-4.19.325.tar.gz"
+license = "GPL-2.0"
+
+[[files]]
+name = "rustc/kernel/linux-4.20.17.tar.gz"
+sha256 = "313b7bebb46084efbfcaf75f4ea6faf2e14c8cbc1711fcba483dc0a036c9acc1"
+source = "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/snapshot/linux-4.20.17.tar.gz"
+license = "GPL-2.0"
+
+[[files]]
+name = "rustc/kernel/linux-5.19.17.tar.gz"
+sha256 = "fbfd02954bea5cf3e01a6e5b25423bfc6ad898bf95d32699d03aa456e777ff4c"
+source = "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/snapshot/linux-5.19.17.tar.gz"
+license = "GPL-2.0"
